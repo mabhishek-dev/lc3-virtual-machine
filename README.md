@@ -222,3 +222,16 @@ The implementation supports:
 
 Platform-specific sections are clearly marked in the source code.  
 Switching between implementations only requires commenting or uncommenting the appropriate blocks.
+
+---
+
+# Screenshots
+
+### 2048 Running on the LC-3 Virtual Machine
+![2048](screenshots/2048.png)
+
+### Rogue Running on the LC-3 Virtual Machine
+![Rogue](screenshots/rogue.png)
+
+### Test Programs Execution
+![Test](screenshots/test.png)
