@@ -1,11 +1,11 @@
 # LC-3 Virtual Machine
 
-![C](https://img.shields.io/badge/C-Systems%20Programming-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-LC--3%20Programs-orange?style=for-the-badge)
-![Virtual Machine](https://img.shields.io/badge/Virtual%20Machine-LC--3%20Architecture-blueviolet?style=for-the-badge)
-![macOS](https://img.shields.io/badge/macOS-Unix%20System-black?style=for-the-badge&logo=apple)
-![Linux](https://img.shields.io/badge/Linux-Compatible-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-Compatible-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-orange?style=for-the-badge)
+![LC-3](https://img.shields.io/badge/LC--3-blueviolet?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-black?style=for-the-badge&logo=apple)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 An implementation of an **LC-3 Virtual Machine** capable of executing programs written in **LC-3 assembly language**.
 
