@@ -235,3 +235,9 @@ Switching between implementations only requires commenting or uncommenting the a
 
 ### Test Programs Execution
 ![Test](screenshots/test.png)
+
+---
+
+## License
+
+This project is licensed under the **MIT License**.
